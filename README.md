@@ -1,6 +1,6 @@
 # lets_chat
 
-A new Flutter project.
+A realtime chat application created using flutter, dart_frog & socket.io
 
 ## Getting Started
 
